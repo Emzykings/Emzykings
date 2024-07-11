@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<I'm Ashinze Emmanuel, a Machine Learning Engineer and Data scientist passionate about turning data into meaningful insights and impactful solutions. 🤖📊
+I'm Emmanuel Adeitan, a Machine Learning Engineer and Data scientist passionate about turning data into meaningful insights and impactful solutions. 🤖📊
 
 🚀 As a data wizard, I spend my days exploring the endless possibilities of machine learning algorithms and diving deep into data analysis. From predictive modelling to natural language processing, I love unravelling hidden patterns in data. 🧙‍♂️📈
 
@@ -8,4 +8,4 @@
 
 📚 In my quest for knowledge, I've completed certifications in Deep Learning, Data Analysis, and more. I believe in continuous learning and staying at the forefront of the ever-evolving data landscape. 🌱🔍
 
-🌟 Let's connect and collaborate on exciting data-driven projects! Whether it's crunching numbers or creating AI-powered solutions, I'm all ears for new opportunities in Machine Learning and Data Science. Together, let's make data-driven dreams come true! 🤝🔥>
+🌟 Let's connect and collaborate on exciting data-driven projects! Whether it's crunching numbers or creating AI-powered solutions, I'm all ears for new opportunities in Machine Learning and Data Science. Together, let's make data-driven dreams come true! 🤝🔥
